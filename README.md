@@ -1,6 +1,6 @@
 # AcmeCloud - SaaS Landing Page Template
 
-![AcmeCloud Screenshot](./assets/dipcloud.png)
+![AcmeCloud Screenshot](./src/assets/dipcloud.png)
 
 A modern, responsive SaaS landing page template built with React, Vite, and Tailwind CSS. This template provides a clean, professional design with reusable components and sections that you can easily customize for your own SaaS product.
 
